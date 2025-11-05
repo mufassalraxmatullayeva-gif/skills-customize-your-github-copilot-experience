@@ -58,6 +58,26 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a small CRUD REST API using FastAPI, Pydantic models, and Uvicorn.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
+
